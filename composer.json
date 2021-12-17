@@ -1,0 +1,18 @@
+{
+    "name": "koween/vanillaframework",
+    "description": "vanilla php template",
+    "autoload": {
+        "psr-4": {
+            "Koween\\Vanillaframework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kowen2206",
+            "email": "koweenjs@gmail.com"
+        }
+    ],
+    "require": {},
+    "files": ["Koween/Vanillaframework/helpers.php"]
+
+}
